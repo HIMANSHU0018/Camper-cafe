@@ -1,0 +1,44 @@
+body{
+    background: url('https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg');
+    background-size: cover;
+}
+.centre{
+    margin: auto;
+    text-align: center;
+    font-weight: 700;
+    
+}
+.bg{
+    height: 500px;
+    width: 350px;
+    background-color: #deb786;
+    margin: auto;
+}
+.sep{
+    height: 2px;
+    background-color: brown;
+    width: 80%;
+    
+}
+.items{
+   
+    height: 20px;
+    width: 90%;
+    margin: auto;
+
+}
+.product{
+    
+    width: 50%;
+    display: inline-block;
+    text-align: left;
+
+}
+.price{
+    
+    width: 50%;
+    display: inline-block;
+    text-align: right;
+
+}
+
